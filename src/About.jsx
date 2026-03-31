@@ -64,6 +64,7 @@ const About = () => {
          <h1>square:{square()}</h1>
       <button onClick={increment}>Increment</button>
        <button onClick={duplicate}>duplicate</button>
+       <button onClick={duplicate}>duplicate</button>
     </div>
   )
 }
